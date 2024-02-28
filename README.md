@@ -1,3 +1,8 @@
+NOTE: 
+1) Get yourself added as a contributor
+2) Pull the latest commit, & Create a folder for yourself
+3) Push code changes only in your folder (Check if push fails, might have to rebase)
+   
 # Leetcode Problems
 ## Week 1 List
 
