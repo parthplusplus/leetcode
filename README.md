@@ -1,7 +1,8 @@
 NOTE: 
 1) Get yourself added as a contributor
 2) Pull the latest commit, & Create a folder for yourself
-3) Push code changes only in your folder (Check if push fails, might have to rebase)
+3) Push code changes only in your folder
+4) While pushing code, if fails, do a rebase: git config pull.rebase true   # rebase
    
 # Leetcode Problems
 ## Week 1 List
