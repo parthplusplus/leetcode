@@ -19,3 +19,18 @@ NOTE:
 | 8 | [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/description/) |
 | 9 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |
 | 10 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |
+
+## Week 2 List
+
+| No            | Problem    | 
+| ------------- |:-------------:|
+| 1 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) |
+| 2 | [Group Anagrams ](https://leetcode.com/problems/group-anagrams/description/) |
+| 3 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |
+| 4 | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |
+| 5 | [3 Sum](https://leetcode.com/problems/3sum/description/) |
+| 6 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |
+| 7 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |
+| 8 | [Min Stack](https://leetcode.com/problems/min-stack/description/) |
+| 9 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |
+| 10 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) |
