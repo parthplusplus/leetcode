@@ -5,7 +5,7 @@ NOTE:
 4) While pushing code, if fails, do a rebase: git config pull.rebase true   # rebase
    
 # Leetcode Problems
-## Week 1 List
+## Week 1 List (Ends March 03)
 
 | No            | Problem    | 
 | ------------- |:-------------:|
@@ -20,7 +20,7 @@ NOTE:
 | 9 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |
 | 10 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |
 
-## Week 2 List
+## Week 2 List (Ends March 10)
 
 | No            | Problem    | 
 | ------------- |:-------------:|
