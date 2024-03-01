@@ -34,3 +34,18 @@ NOTE:
 | 8 | [Min Stack](https://leetcode.com/problems/min-stack/description/) |
 | 9 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |
 | 10 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) |
+
+## Week 3 List (Ends March 17)
+
+| No            | Problem    | 
+| ------------- |:-------------:|
+| 1 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |
+| 2 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |
+| 3 | [Diameter of Binary Tree ](https://leetcode.com/problems/diameter-of-binary-tree/description/) |
+| 4 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |
+| 5 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |
+| 6 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |
+| 7 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| 8 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |
+| 9 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |
+| 10 | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |
