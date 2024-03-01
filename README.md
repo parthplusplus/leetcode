@@ -1,3 +1,5 @@
+Goal: Solve 10 problems a week (see weekly list below)
+
 NOTE: 
 1) Get yourself added as a contributor
 2) Pull the latest commit, & Create a folder for yourself
