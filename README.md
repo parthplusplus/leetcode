@@ -6,6 +6,8 @@ NOTE:
 3) Push code changes only in your folder
 4) While pushing code, if fails, do a rebase: git config pull.rebase true   # rebase
 
+Weeks 1-6
+![image](https://github.com/parthplusplus/leetcode/assets/161550530/08b32813-f3cd-4666-9dba-532a125c1a46)
 
 # Leetcode Problems
 ## Week 1 List (Ends March 03)
