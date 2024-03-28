@@ -51,3 +51,33 @@ NOTE:
 | 8 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |
 | 9 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |
 | 10 | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |
+
+## Week 4 List (Ends March 24)
+
+| No            | Problem    | 
+| ------------- |:-------------:|
+| 1 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |
+| 2 | [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |
+| 3 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |
+| 4 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |
+| 5 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |
+| 6 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |
+| 7 | [Same Tree](https://leetcode.com/problems/same-tree/description/) |
+| 8 | [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |
+| 9 | [Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |
+| 10 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |
+
+## Week 5 List (Ends March 31)
+
+| No            | Problem    | 
+| ------------- |:-------------:|
+| 1 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |
+| 2 | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) |
+| 3 | [Valid Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/description/) |
+| 4 | [Kth Smallest Element In A Binary Search Tree](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |
+| 5 | [Construct Binary Tree From PreOrder And InOrder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |
+| 6 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |
+| 7 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |
+| 8 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) |
+| 9 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |
+| 10 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |
