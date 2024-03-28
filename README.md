@@ -5,7 +5,8 @@ NOTE:
 2) Pull the latest commit, & Create a folder for yourself
 3) Push code changes only in your folder
 4) While pushing code, if fails, do a rebase: git config pull.rebase true   # rebase
-   
+
+
 # Leetcode Problems
 ## Week 1 List (Ends March 03)
 
@@ -81,3 +82,18 @@ NOTE:
 | 8 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) |
 | 9 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |
 | 10 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |
+
+## Week 6 List (Ends April 07)
+
+| No            | Problem    | 
+| ------------- |:-------------:|
+| 1 | [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) |
+| 2 | [Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |
+| 3 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |
+| 4 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |
+| 5 | [Largest Rectange In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |
+| 6 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) |
+| 7 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |
+| 8 | [Reverse Nodes In K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |
+| 9 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |
+| 10 | [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |
