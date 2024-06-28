@@ -10,3 +10,6 @@ class Solution:
             else:
                 dictionary[nums[i]] = i
         return l
+    
+TC: O(n)
+SC: O(n)
