@@ -1,18 +1,18 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         ans = []
-        prefix = 1
+        left = 1
         for num in nums:
-            ans.append(prefix)
-            prefix*=num
-        postfix = 1
+            ans.append(left)
+            left*=num
+        right = 1
         for i in range(len(nums)-1,-1,-1):
-            ans[i] *= postfix
-            postfix *= nums[i]
+            ans[i] *= right
+            right *= nums[i]
         return ans
     
-TC: O(n)
-SC: O(1)
+# TC: O(n)
+# SC: O(1)
 
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
@@ -30,6 +30,6 @@ class Solution:
         return out
 
 
-TC: O(n)
-SC: O(n)
+# TC: O(n)
+# SC: O(n)
         

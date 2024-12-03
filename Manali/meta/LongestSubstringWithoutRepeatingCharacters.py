@@ -10,8 +10,8 @@ class Solution:
             res = max(res,r-l+1)
         return res
     
-# TC: O(n)
-# SC: O(n)
+TC: O(n)
+SC: O(n)
 
 
 class Solution:
